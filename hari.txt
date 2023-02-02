@@ -4,5 +4,12 @@ Hari works on DevOps
 Hari is using Docker in his project
 It is likely to rain today
 Learning git diff command
+<<<<<<< HEAD
 Learning git tags
 Learning branching strategies
+some chage
+Demo of git conflict
+This change is done by developer 2
+=======
+Learning git tags
+>>>>>>> parent of 082331e (tagging demo2)
