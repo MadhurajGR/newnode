@@ -10,6 +10,9 @@ Learning branching strategies
 some chage
 Demo of git conflict
 This change is done by developer 2
+<<<<<<< HEAD
 =======
 Learning git tags
 >>>>>>> parent of 082331e (tagging demo2)
+=======
+>>>>>>> 2041a123a97cb1cc57a9c4025ba324f9c8db0cee
